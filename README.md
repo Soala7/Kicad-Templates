@@ -8,7 +8,7 @@ This repository provides ready-to-use layouts, schematic setups, and library con
 
 Clone this repository:
 
-git clone https://github.com/your-username/Kicad-Templates.git 
+git clone https://github.com/Soala-7/Kicad-Templates.git 
 
 Copy the desired template into your KiCad template directory:
 
